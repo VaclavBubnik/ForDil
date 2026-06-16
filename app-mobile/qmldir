@@ -1,0 +1,13 @@
+module ForDil
+singleton Globals 1.0 Globals.qml
+ChapterHeader 1.0 ChapterHeader.qml
+CloseButton 1.0 CloseButton.qml
+CustomPopup 1.0 CustomPopup.qml
+DialogWindow 1.0 DialogWindow.qml
+IconTextButton 1.0 IconTextButton.qml
+LogWindow 1.0 LogWindow.qml
+MapView 1.0 MapView.qml
+SiteSelection 1.0 SiteSelection.qml
+TextButton 1.0 TextButton.qml
+PageMain 1.0 PageMain.qml
+ZoomableView 1.0 ZoomableView.qml

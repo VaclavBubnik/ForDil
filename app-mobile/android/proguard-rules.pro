@@ -1,0 +1,5 @@
+-keep class org.qtproject.qt.android.** { *; }
+-keep class org.kde.necessitas.** { *; }
+-keep class com.mendelu.fordil.MainActivity { *; }
+-keep class com.mendelu.fordil.** { *; }
+-keepattributes *Annotation*

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 96 96"
+   id="Icons_Badge10"
+   overflow="hidden"
+   version="1.1"
+   sodipodi:docname="ui_number_12.svg"
+   inkscape:export-filename="ui_number_12.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9441164"
+     inkscape:cx="37.76844"
+     inkscape:cy="47.694221"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Icons_Badge10" />
+  <path
+     d="M58.186 34.449C53.912 34.449 51.7757 38.9093 51.777 47.83 51.777 52.014 52.3027 55.1473 53.354 57.23 54.1346 59.1339 55.9964 60.3702 58.054 60.351 62.148 60.351 64.1953 56.112 64.196 47.634 64.196 43.1853 63.709 39.876 62.735 37.706 61.761 35.536 60.2447 34.4503 58.186 34.449Z"
+     fill="#26787A"
+     id="path2" />
+  <circle
+     style="fill:#26787a;stroke:#26787a;stroke-width:1.00402;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+     id="path3"
+     cx="48"
+     cy="48"
+     r="37.49799" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     x="21.203106"
+     y="64.417656"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="21.203106"
+       y="64.417656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.6667px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke:#ffffff;stroke-opacity:1">12</tspan></text>
+</svg>

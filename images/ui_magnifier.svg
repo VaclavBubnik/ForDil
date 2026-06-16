@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#50c7ff"/>
+      <stop offset="100%" stop-color="#0078d4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Lens -->
+  <circle
+    cx="448" cy="448" r="320"
+    fill="none"
+    stroke="url(#blueGradient)"
+    stroke-width="64"
+  />
+
+  <!-- Handle -->
+  <line
+    x1="704" y1="704" x2="960" y2="960"
+    stroke="url(#blueGradient)"
+    stroke-width="64"
+    stroke-linecap="round"
+  />
+</svg>

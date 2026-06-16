@@ -1,0 +1,22 @@
+# Build directories (created by Qt Creator and other tools)
+build/
+build-*/
+
+# Qt Creator user files (created automatically)
+*.user
+CMakeLists.txt.user
+
+# QML Language Server (created automatically)
+.qmlls.ini
+
+# Qt translations (compiled)
+*.qm
+
+# Editor / IDE
+.vscode/
+.vs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
