@@ -1,10 +1,20 @@
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/doc/images/screenshot.png"></a>
+</div>
+
 # ForDil
 ForDil is a tool to learn Continuous Cover Forestry approach (CCF) approach
 through practical cases and field situations. It is intended for current and
 future forest owners and managers (students in forestry or silviculture programs
 at vocational schools and higher education institutions).
 
+For more information, see https://www.fordil.net/
+
 Copyright (C) 2025 - Present MENDELU.
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/doc/images/partners.png"></a>
+</div>
 
 ## License
 ForDil is free software and is distributed under the GNU General Public License,
