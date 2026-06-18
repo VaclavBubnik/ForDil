@@ -10,6 +10,10 @@ at vocational schools and higher education institutions).
 
 For more information, see https://www.fordil.net/
 
+Available on Google Play Store https://play.google.com/store/apps/details?id=com.mendelu.fordil
+
+APK download https://github.com/VaclavBubnik/ForDil/releases
+
 Copyright (C) 2025 - Present MENDELU.
 
 <div align="center">
@@ -29,17 +33,22 @@ The application requests location access at runtime to enable GPS functionality
 and provide accurate positioning services. This is necessary for displaying your
 current location on the map and enabling location-based features.
 
+## Third-Party Libraries and Icons
+ForDil source code includes third-party libraries which are stored
+under 3rdparty directory. This approach allows to use compatible versions of
+third-party libraries **without downloading and installation** of each library.
+
+- This application uses QXlsx licensed under MIT.
+- Some icons are provided by Flaticon https://www.flaticon.com/
+
 ## Build Instructions
+The code uses C++, Qt, Qt QML, Qt Creator, Java JDK, Android SDK, NDK and Tools.
+The build process generates APK (and optionally ADB).
+
 1. Install Qt
  - Install via the Qt Online Installer from https://www.qt.io/download -> GPL
  - Downloaded file "qt-online-installer-windows-x64-4.9.0"
  - In Qt Online Installer select "Developer tools" and "Custom Installation"
- - Check if the Qt version in the installer supports Android 9:
-     - Google "Qt 6.9 Supported Platforms":
-         - Distribution Android 9 (API 28) to 15 (API 35)
-         - Architecture arm64-v8a, x86_64, x86, and armeabi-v7a
-         - Compiler Clang 17.0.2 (NDK r26b, r27c, 26.1.10909125, 27.2.12479018)
-         - JDK 17
  - Under Qt > Qt 6.9.0, select "Android", "Sources", "Additional Libraries"
  - Under Qt > Build Tools, select "LLVM-MinGW 17.0.6 64-bit", "CMake", "Ninja"
  - Under Qt Creator, select "Qt Creator 16.0.1"
@@ -88,21 +97,14 @@ current location on the map and enabling location-based features.
        Windows can handle LF just fine at least since version 10.
 
 5. Configure Qt Creator for Android
- - In Qt Creator go to Tools > External > Configure > SDKs
+ - In Qt Creator go to Tools > External > Configure > Devices > Android
  - Set paths for:
      - JDK: should be already set by JAVA_HOME
-     - SDK: click button "Set Up SDK" which may download additional packages
+            example location: C:\Android\jdk-17.0.13+11
+     - SDK: browse to your sdk directory
+            or click button "Set Up SDK" which may download additional packages
+            example location: C:\Android\Sdk
      - NDK: example C:\Users\user\AppData\Local\Android\Sdk\ndk\28.2.13676358
- - You can download system images for emulator devices
-     - Go to Tools > External > Configure > SDKs
-     - Click "SDK Manager" button
-     - Select a system image
- - You can create new emulator device
-     - Go to Tools > External > Configure > Devices
-     - Click "Add" button
-     - Select "Android Device"
-     - Select target ABI/API for example to x86/android-28
-     - Now you can "Start AVD" from Qt Creator
 
 6. Open, Build and Deploy Project in Qt Creator
  - In Qt Creator click "Open Project"
