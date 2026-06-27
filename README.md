@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/doc/images/screenshot.png"></a>
+<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/docs/images/screenshot.png"></a>
 </div>
 
 # ForDil
@@ -8,17 +8,24 @@ through practical cases and field situations. It is intended for current and
 future forest owners and managers (students in forestry or silviculture programs
 at vocational schools and higher education institutions).
 
-For more information, see https://www.fordil.net/
+For more information, see the official ForDil website https://www.fordil.net/ or linkedin https://www.linkedin.com/company/fordil/
 
-Available on Google Play Store https://play.google.com/store/apps/details?id=com.mendelu.fordil
+ForDil app is available on Google Play Store https://play.google.com/store/apps/details?id=com.mendelu.fordil
 
-APK download https://github.com/VaclavBubnik/ForDil/releases
+ForDil app APK file download https://github.com/VaclavBubnik/ForDil/releases
 
 Copyright (C) 2025 - Present MENDELU.
 
+## Partners
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/doc/images/partners.png"></a>
+<img width="100%" src="https://raw.githubusercontent.com/VaclavBubnik/ForDil/main/docs/images/partners.png"></a>
 </div>
+
+- Société Royale Forestière de Belgique https://srfb.be/
+- Lycée professionnel de Bavay - Institut de Genech https://www.lyceedebavay.fr/
+- Institut Technique Gembloux Suarlée http://www.ith-gembloux.be/
+- Centre de Développement Agroforestier de Chimay https://www.cdaf.be/
+- Mendel University in Brno https://www.mendelu.cz/
 
 ## License
 ForDil is free software and is distributed under the GNU General Public License,
